@@ -1,0 +1,20 @@
+body
+{
+    background-image: linear-gradient(120deg, #a1c4fd 0%, #c2e9fb 100%);
+}
+
+h1{
+    font-weight: bold;
+    background-color: turquoise;
+    margin-top: 10px !important;
+    border-radius: 5px;
+  color: white !important;
+
+}
+
+img{
+    height :500px;
+    
+
+
+}
